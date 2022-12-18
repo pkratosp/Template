@@ -6,6 +6,8 @@ instalar pacotes nodejs
 npm install
 ```
 
+Iniciar aplicação
+
 ```bash
 npm run dev
 ```
